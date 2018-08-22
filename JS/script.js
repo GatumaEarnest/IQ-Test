@@ -40,18 +40,10 @@ if (result>0 && Total<280){
 range = 3;
 }
 
+  document.getElementById("quiz").style.visibility = "hidden"
+  document.getElementById("after_submit").style.visibility = "visible";
 
-
-
-
-
-
-
-
-
-
-
-
-
+  document.getElementById("message").innerHTML = messages[range];
+  document.getElementById("turnout").innerHTML = "Your score is " + Total+ "!";
 
                 }

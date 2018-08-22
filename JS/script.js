@@ -5,7 +5,10 @@ function check() {
     var question4 = document.quiz.question4.value;
     var result = 0;
 
-
+    //Question 1
+      if (question1 == "Yes alot!"){result+=85}
+      else if (question1 = "Am not sure."){result+=75}
+      else if (question1 =="Sometimes." )  {result*=55;}
 
 
 

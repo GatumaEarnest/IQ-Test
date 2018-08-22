@@ -11,7 +11,7 @@ This application is called The IQ identifier. The page contains a three choiced 
 There is no database or server setup for this code hence it should be smooth and easy to use. View my profile on [Github](https://github.com/GatumaEarnest) for more.
 ## Known Bugs
 There are no known bugs for this web application
-##PROGRAMMING SCHEMES USED
+## PROGRAMMING SCHEMES USED
 * Javascript
 * HTML
 * CSS

@@ -24,8 +24,21 @@ function check() {
       else if (question4 =="No, it's confusing as f***k!") {result4=150;}
 
       var messages = ["GENIUS","Quite high!", "Slightly above average", "Average","What are you!?"];
-<var Total=result1+result2+result3+result4;
-var range;
+     <var Total=result1+result2+result3+result4;
+//Will add the range specs
+    var range;
+      if (Total>436 && Total <1000){
+range = 0;
+}
+if (Total <328 && Total<=436){
+range = 1;
+}
+if (result>280 && Total<=328){
+range = 2;
+}
+if (result>0 && Total<280){
+range = 3;
+}
 
 
 

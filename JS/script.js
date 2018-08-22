@@ -18,6 +18,10 @@ function check() {
      else if (question3 == "Sometimes, that's if there is silence"){result3+=140}
      else if (question3 =="I like it!" )  {result3+=180;}
 
+     //Question 4
+      if (question4 == "I believe love is a virtual aspect"){ result4+=90;}
+      else if (question4 == "I believe it is."){result4=190}
+      else if (question4 =="No, it's confusing as f***k!") {result4=150;}
 
 
 

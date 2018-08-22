@@ -1,5 +1,5 @@
 # Triangle-tracker
-#### This is an application estimate a persons IQ, 22/08/2018
+#### This is an application that estimates a persons IQ, 22/08/2018
 #### By **Ernest Gatuma**
 ## Description
 This application is called The IQ identifier. The page contains a three choiced question which will enable our stats to be generated to a single result. It will identify ones Intelligence quotient value after a series of tests. The application uses a function of if else statement and has an input-button which generates the check-function upon being clicked to achieve its agenda.    

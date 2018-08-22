@@ -13,7 +13,10 @@ function check() {
     else if (question2 == "Nah.The cat comes first."){result2+=200}
     else if (question2 =="I don't like pets" )  {result2+=30;}
 
-
+    //Question 3
+     if (question3 == "No"){result3+=46;}
+     else if (question3 == "Sometimes, that's if there is silence"){result3+=140}
+     else if (question3 =="I like it!" )  {result3+=180;}
 
 
 

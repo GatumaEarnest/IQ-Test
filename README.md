@@ -1,4 +1,4 @@
-# Triangle-tracker
+# IQ TEST
 #### This is an application that estimates a persons IQ, 22/08/2018
 #### By **Ernest Gatuma**
 ## Description

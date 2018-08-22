@@ -5,10 +5,10 @@
  .jumbotron{background-image: url(./IQ.jpg);
    float:inherit;
    text-shadow: 1px 2px 2px #00308F;
+           }
    .font{font-weight: bold;
       font-size: 25px;
-
-    }
+        }
     .generator{
       background-image:url('../giphy.gif');
       background-repeat:no-repeat;
